@@ -40,8 +40,10 @@
     "@nuxtjs/tailwindcss": "^4.0.3",
     "babel-loader": "^8.2.2",
     "dedent": "^0.7.0",
+    "graphql-request": "^3.4.0",
     "postcss": "^8.2.9",
     "remark-footnotes": "^3.0.0",
+    "tailwindcss-dark-mode": "^1.1.7",
     "vue-loader": "^15.9.6"
   }
 }

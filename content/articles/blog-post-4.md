@@ -1,5 +1,6 @@
 ---
-title: Building a Dynamic Tree Diagram with SVG and Vue.js
-description: Dynamic tree diagram using cubic bezier curve paths and Vue.Js for data reactivity
+title: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 component: "Svg1"
+image: "4.jpg"
 ---

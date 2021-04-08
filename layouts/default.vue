@@ -1,5 +1,5 @@
-<template>
-  <div class="">
+<template  >
+  <div class="bg-black">
     <div class="flex justify-center py-3 border-b-0">
     </div>
     <nuxt />
@@ -18,7 +18,7 @@ a {
 /*global page transition*/
 .page-enter-active,
 .page-leave-active {
-  transition: opacity 0.5s;
+  transition: opacity 0.2s;
 }
 .page-enter,
 .page-leave-to {
@@ -28,7 +28,7 @@ a {
 
 <style scoped lang="scss">
 img {
-  transition: all ease 0.3s;
+  transition: all ease 0.15s;
   opacity: 0;
   &[lazy="loading"] {
     opacity: 1;

@@ -1,5 +1,7 @@
 ---
-title: Why Nuxt.js is the perfect framework for building static websites?
-description: Explore a complex case-study built with Nuxt.js, Tailwind CSS, and the GreenSock Animation Platform.
+title: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+description: Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 component: "Svg3"
+image: "7.jpg"
+
 ---

@@ -9,7 +9,7 @@ export default {
    ** Doc: https://vue-meta.nuxtjs.org/api/#metainfo-properties
    */
   head: {
-    title: "Nuxt.js Infinite masonry layout with Nuxt",
+    title: "",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -37,7 +37,7 @@ export default {
   modules: ["@nuxt/content"],
   content: {
     // Disable for security reason on CodeSandBox
-    liveEdit: false,
+    liveEdit: true,
   },
   /*
    ** Build time modules
@@ -54,6 +54,9 @@ export default {
     families: {
       Roboto: true,
       "Roboto+Condensed": true,
+    },
+  purgeCSS: {    
+    whitelist: ['dark-mode'],  
     },
   },
   /*

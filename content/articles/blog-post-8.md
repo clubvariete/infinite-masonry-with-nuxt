@@ -1,5 +1,8 @@
 ---
-title: Understanding how fetch works in Nuxt 2.12
-description: Explore different features of the fetch hook and try to understand how it works.
+title: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 component: "Svg2"
+image: "8.jpg"
+
+
 ---
